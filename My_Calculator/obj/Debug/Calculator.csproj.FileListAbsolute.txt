@@ -1,0 +1,8 @@
+C:\Users\Lopezem.AM\Desktop\C# Online Courses\Practice_Problems\My_First_GUI\Calculator\obj\Debug\My_First_GUI.exe
+C:\Users\Lopezem.AM\Desktop\C# Online Courses\Practice_Problems\My_First_GUI\Calculator\obj\Debug\My_First_GUI.pdb
+C:\Users\Lopezem.AM\Desktop\C# Online Courses\Practice_Problems\My_First_GUI\Calculator\bin\Debug\My_First_GUI.exe
+C:\Users\Lopezem.AM\Desktop\C# Online Courses\Practice_Problems\My_First_GUI\Calculator\bin\Debug\My_First_GUI.pdb
+C:\Users\Lopezem.AM\Desktop\C# Online Courses\Practice_Problems\My_First_GUI\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+C:\Users\Lopezem.AM\Desktop\C# Online Courses\Practice_Problems\My_First_GUI\Calculator\obj\Debug\My_First_GUI.Form1.resources
+C:\Users\Lopezem.AM\Desktop\C# Online Courses\Practice_Problems\My_First_GUI\Calculator\obj\Debug\My_First_GUI.Properties.Resources.resources
+C:\Users\Lopezem.AM\Desktop\C# Online Courses\Practice_Problems\My_First_GUI\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
